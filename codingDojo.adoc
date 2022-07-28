@@ -1,0 +1,30 @@
+= Ovar Coding Dojo
+
+== Session 1 - July, 27th - 2022
+
+=== *Rules:*
+* The Session can take up to 4 hours;
+* Problem will be chosen in the beginning of the session;
+* The development will be done in iterations;
+** Each iterations will be time-boxed on 8 minutes;
+** Two developers will work on each iteration (pilot and copilot);
+** Pilot will type and copilot will support;
+** In the end of the iteration, copilot assumes the pilot role and a new participant becames the copilot;
+** People around are not allowed to give hints (unless if it is requested by the pilot/copilot)
+
+
+=== *Suggestions:*
+* Language: C++17
+* Build Environment: CMake
+* Test Environment: GTest/GMock 
+
+
+==== Useful links:
+
+* cMake
+** https://www.internalpointers.com/post/modern-cmake-beginner-introduction[cMake - Beginner Introduction]
+
+* gMock
+** https://google.github.io/googletest/quickstart-cmake.html[Quick Start]
+** https://google.github.io/googletest/gmock_cook_book.html[gMock Cook book]
+** https://chromium.googlesource.com/external/github.com/pwnall/googletest/+/refs/tags/release-1.8.0/googlemock/docs/ForDummies.md[gMock for Dummies]
